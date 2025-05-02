@@ -297,4 +297,7 @@ int main(int argc, char **argv) {
     glutMainLoop();
     return 0;
 }
-////g++ sp.cpp -o sp.exe -lfreeglut -lglew32 -lopengl32 -lglu32
+//compile the code
+//g++ cubeball.cpp -o cubeball.exe -lfreeglut -lglew32 -lopengl32 -lglu32
+//run the executable
+//start cubeball.exe

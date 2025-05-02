@@ -108,4 +108,8 @@ int main(int argc, char **argv) {
     glutMainLoop();
     return 0;
 }
+
+//compile the code: 
 //g++ clock.cpp -o clock.exe -lfreeglut -lglew32 -lopengl32 -lglu32
+//run the executable
+//start clock.exe
