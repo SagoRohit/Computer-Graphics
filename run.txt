@@ -1,0 +1,1 @@
+g++ -std=c++17 2005071_main.cpp -o output.exe -lfreeglut -lopengl32 -lglu32
